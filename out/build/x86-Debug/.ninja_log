@@ -1,0 +1,15 @@
+# ninja log v5
+5	1874	7051745209696982	CMakeFiles/FugureLibrary.dir/Triangle.cpp.obj	7b0b429dcc99ae8d
+10	1908	7051745209907491	CMakeFiles/FugureLibrary.dir/Iso_triangle.cpp.obj	e3515dd444c7f77b
+9	1911	7051745209736983	CMakeFiles/FugureLibrary.dir/Equil_triangle.cpp.obj	f5bbd26e671c9209
+7	1926	7051745210306983	CMakeFiles/FugureLibrary.dir/Quadrangle.cpp.obj	4cc895d85569a321
+12	1953	7051745210266989	CMakeFiles/FugureLibrary.dir/Parallelogram.cpp.obj	88318bd07d1b1856
+2	2405	7051745214927008	CMakeFiles/FugureLibrary.dir/Figure.cpp.obj	fe17c6a1e61289a3
+1926	3173	7051745222867052	CMakeFiles/FugureLibrary.dir/Square.cpp.obj	d3f05fe841340909
+1899	3180	7051745222917079	CMakeFiles/FugureLibrary.dir/Rectangle.cpp.obj	b811aa8a7643ca6d
+1911	3213	7051745223367119	CMakeFiles/FugureLibrary.dir/Right_triangle.cpp.obj	81db3342ec1ba0f3
+1908	3304	7051745224277062	CMakeFiles/FugureLibrary.dir/Rhombus.cpp.obj	b6b9340e066762fd
+3304	3919	7051745230257082	FugureLibrary.dll	28d7791c060faa6c
+3304	3919	7051745230257082	FugureLibrary.lib	28d7791c060faa6c
+1954	4035	7051745231580041	CMakeFiles/DynamicLibraryClientExe.dir/DynamicLibraryClient.cpp.obj	1cdae8e2d9f225c2
+4035	4439	7051745235492702	DynamicLibraryClientExe.exe	9791740a67f25c0d

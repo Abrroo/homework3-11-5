@@ -1,0 +1,4 @@
+C:/Users/Ersyn/source/repos/homework3-11-5/out/build/x86-Debug/CMakeFiles/FugureLibrary.dir
+C:/Users/Ersyn/source/repos/homework3-11-5/out/build/x86-Debug/CMakeFiles/DynamicLibraryClientExe.dir
+C:/Users/Ersyn/source/repos/homework3-11-5/out/build/x86-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ersyn/source/repos/homework3-11-5/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
